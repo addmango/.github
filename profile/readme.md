@@ -11,7 +11,7 @@
 
 👋 Welcome to the **https://mango.bot** organization!
 
-## 🤔 About
+## ✨ About
 Mango 🥭 is a verified Discord bot made in TypeScript that will help you manage your server efficiently. A web dashboard is coming soon. 
 
 ## ⚡ Features
@@ -27,11 +27,16 @@ Mango 🥭 is a verified Discord bot made in TypeScript that will help you manag
   - `hangman`, `reachangman`, `tictactoe`
 
 ## 🔗 Invite
-You may invite it in your server by clicking ![here](https://go.fowled.club/mango).
+You may invite it in your server by clicking [here](https://go.fowled.club/mango).
+
+## 🧪 Create your own
+1. Clone the repository - `git clone https://github.com/addmango/mango.git`
+2. Install dependencies - `pnpm install`
+3. Follow the instructions - `npx ts-node scripts/setup.ts`
 
 ## 📝 Contact me
 Send me a private message at `fowled#6666` or join the community server - https://discord.gg/9aT626ABdq
 
 ## 🌟 Support me
-As I am the only developer of Mango and earn nothing out of this project (the bot is entirely free), leaving a star on its ![GitHub repository](https://github.com/addmango/mango) would be highly appreciated.
-You could also leave a positive review over at ![top.gg](https://top.gg/fr/bot/497443144632238090). Thanks ❤️
+As I am the only developer of Mango and earn nothing out of this project (the bot is entirely free), leaving a star on its [GitHub repository](https://github.com/addmango/mango) would be highly appreciated.
+You could also leave a positive review over at [top.gg](https://top.gg/fr/bot/497443144632238090). Thanks ❤️
